@@ -3,7 +3,7 @@ The *dis-rules* project introduces association rule mining to discourse analysis
 
 Parliamentary debates have been coded manually using the [Discourse Network Analyzer](https://github.com/leifeld/dna) developed by [Philip Leifeld](https://www.philipleifeld.com). The raw data has then been exported, cleaned and prepared for analysis in Python.
 
-Datasets and Python code will be uploaded shortly.
+! Datasets and Python code will be uploaded shortly !
 
 The Python code allows us to:
 * Use the popular [Apriori algorithm](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/) to:
