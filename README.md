@@ -1,14 +1,14 @@
 # Association rule-based discourse analysis (dis-rules)
-The *dis-rules* project introduces association rule mining to discourse analysis.
+The *dis-rules* project introduces association rule mining to discourse analysis. Compared to co-occurence approaches, the proposed approach advances the detection of clusters, thus, frame analysis, by reducing the bias towards highly frequent discursive claims.
 
-Parliamentary debates have been coded manually using the [Discourse Network Analyzer](https://github.com/leifeld/dna) developed by Philip Leifeld ([2016](https://books.google.co.uk/books/about/Policy_Debates_as_Dynamic_Networks.html?id=xKLuCwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)). The raw data has then been exported, cleaned and prepared for analysis in Python.
+Parliamentary debates have been coded manually using the [Discourse Network Analyzer](https://github.com/leifeld/dna) developed by [Philip Leifeld] (https://www.philipleifeld.com). The raw data has then been exported, cleaned and prepared for analysis in Python.
 
 Datasets and Python code will be uploaded shortly.
 
 The Python code allows us to:
-* ...
-* ...
-* ...
+* Use the popular Apriori algorithm to (1) generate frequent itemsets and (2) find association rules
+* Generate undirected network graphs from association rules
+* Compute the [Louvain modularity score](https://github.com/taynaud/python-louvain/)
 
 ### Citation
 If you use the dataset or code, please cite this paper:
