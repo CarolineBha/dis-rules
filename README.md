@@ -6,7 +6,7 @@ Parliamentary debates have been coded manually using the [Discourse Network Anal
 Datasets and Python code will be uploaded shortly.
 
 The Python code allows us to:
-* Use the popular [Apriori algorithm](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/) to
+* Use the popular [Apriori algorithm](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/) to:
     * Generate frequent itemsets
     * Find association rules
 * Generate undirected network graphs from association rules
