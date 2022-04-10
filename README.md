@@ -11,6 +11,7 @@ The Python code allows us to:
     * Find association rules
 * Generate undirected network graphs from association rules
 * Compute the [Louvain modularity score](https://github.com/taynaud/python-louvain/)
+* Compute a contestedness score for each concept
 
 ### Citation
 If you use the dataset or code, please cite this paper:
