@@ -7,8 +7,8 @@ Datasets and Python code will be uploaded shortly.
 
 The Python code allows us to:
 * Use the popular [Apriori algorithm](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/) to
-    (1) generate frequent itemsets and
-    (2) find association rules
+    * Generate frequent itemsets
+    * Find association rules
 * Generate undirected network graphs from association rules
 * Compute the [Louvain modularity score](https://github.com/taynaud/python-louvain/)
 
