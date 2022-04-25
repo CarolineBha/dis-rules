@@ -16,6 +16,6 @@ The Python code allows us to:
 ### Citation
 If you use the dataset or code, please cite this paper:
 
-Bhattacharya, Caroline (forthcoming), "Restrictive rules of speechmaking as a tool to maintain party unity: The case of oppressed political conflict in German parliament debates on the euro crisis", *Party Politics*, online first. doi: 10.1177/13540688221086226
+Bhattacharya, Caroline (forthcoming), "Restrictive Rules of Speechmaking as a Tool to Maintain Party Unity: The Case of Oppressed Political Conflict in German Parliament Debates on the Euro Crisis", *Party Politics*, online first. doi: 10.1177/13540688221086226
 
 For comments or questions, please contact the author: https://blogs.helsinki.fi/czwerner/
