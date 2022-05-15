@@ -1,0 +1,4 @@
+# Dataset
+The *dis-rules* dataset has been split up into several sub-datasets by debate (d1, d2, d3, d4 and d5). Within each debate, there is a dataset for speeches (e.g. d1_speech) and vote explanations (e.g. d1_eov), for government parties (e.g. d1_gov) and opposition parties (e.g. d1_opp) and for each party (e.g. d1_cdu-csu, d1_fdp, d1_greens, d1_left and d1_spd). There are also sub-datasets for government and opposition speeches (e.g. d1_speech_gov and d1_speech_opp) and government and opposition vote explanations (e.g. d1_eov_gov and d1_eov_opp).
+In addition, there are two sub-datasets for representative claims made in speeches (rep_speech) and vote exaplanations (rep_eov).
+For computing the contestedness scores, there is a separate data file (contest-data).
